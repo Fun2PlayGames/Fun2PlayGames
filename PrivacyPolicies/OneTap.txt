@@ -1,3 +1,3 @@
 One Tap Privacy Policy
 
-Fun2Play Games does not collect any information from you by using this game. All data saved is stored on your device and not sent to us.
+This app uses third party services. We use Google Play Services to provide you with a more engaging experience. You can find out about how data is collected at https://policies.google.com/privacy
