@@ -1,3 +1,5 @@
 One Tap Privacy Policy
 
-This app uses third party services. We use Google Play Services to provide you with a more engaging experience. You can find out about how data is collected at https://policies.google.com/privacy
+This game was made using Unity - https://unity3d.com/legal/privacy-policy
+
+This game uses third party services. We use Google Play Games Services to provide you with a more engaging experience. You can find out about how data is collected at https://policies.google.com/privacy
